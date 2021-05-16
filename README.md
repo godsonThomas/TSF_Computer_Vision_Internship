@@ -1,2 +1,2 @@
-# **Task 2-Color identification in an image**
+# _Task 2-Color identification in an image_
 
